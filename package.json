@@ -2,6 +2,7 @@
   "name": "social-media",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thomasdbs.github.io/seize-insta",
   "dependencies": {
     "fabric": "^2.4.3",
     "merge-images": "^1.1.0",
@@ -17,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +29,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 class Menu extends Component {
   toggleNavbar = () => {
@@ -10,10 +11,10 @@ class Menu extends Component {
         <button className="icon" onClick={() => this.toggleNavbar()} />
         <ul>
           <li className="nav-link">
-            <a href="/">Citation</a>
+            <Link to="/">Citation</Link>
           </li>
           <li className="nav-link">
-            <a href="/photo">Photo</a>
+            <Link to="/photo">Photo</Link>
           </li>
         </ul>
       </nav>

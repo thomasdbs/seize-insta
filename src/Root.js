@@ -1,17 +1,17 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Quote from "./pages/Quote";
 import Picture from "./pages/Picture";
 
 const Root = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <Route exact path="/" component={Quote} />
         <Route exact path="/photo" component={Picture} />
-        <Route component={Quote} />
+        <Route component={Picture} />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
