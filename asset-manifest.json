@@ -1,7 +1,7 @@
 {
   "main.css": "/seize-insta/static/css/main.965354e9.chunk.css",
-  "main.js": "/seize-insta/static/js/main.f7aa76dc.chunk.js",
-  "main.js.map": "/seize-insta/static/js/main.f7aa76dc.chunk.js.map",
+  "main.js": "/seize-insta/static/js/main.277b838b.chunk.js",
+  "main.js.map": "/seize-insta/static/js/main.277b838b.chunk.js.map",
   "static/css/1.39e46948.chunk.css": "/seize-insta/static/css/1.39e46948.chunk.css",
   "static/js/1.7afee0ec.chunk.js": "/seize-insta/static/js/1.7afee0ec.chunk.js",
   "static/js/1.7afee0ec.chunk.js.map": "/seize-insta/static/js/1.7afee0ec.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.39e46948.chunk.css.map": "/seize-insta/static/css/1.39e46948.chunk.css.map",
   "static/css/main.965354e9.chunk.css.map": "/seize-insta/static/css/main.965354e9.chunk.css.map",
   "index.html": "/seize-insta/index.html",
-  "precache-manifest.356f95602dcf49d53e99465510f4cdaa.js": "/seize-insta/precache-manifest.356f95602dcf49d53e99465510f4cdaa.js",
+  "precache-manifest.cde0b2448f0767e05a4cf4aff379e0c5.js": "/seize-insta/precache-manifest.cde0b2448f0767e05a4cf4aff379e0c5.js",
   "service-worker.js": "/seize-insta/service-worker.js"
 }
