@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/seize-insta/static/js/runtime~main.fb1a993c.js"
   },
   {
-    "revision": "a8df741f0b5918b69e7c",
-    "url": "/seize-insta/static/js/main.a8df741f.chunk.js"
+    "revision": "8f049a0811368f7cfcd8",
+    "url": "/seize-insta/static/js/main.8f049a08.chunk.js"
   },
   {
-    "revision": "a964f29472b9eb0c826c",
-    "url": "/seize-insta/static/js/1.a964f294.chunk.js"
+    "revision": "bf0236078cc4b6f7e687",
+    "url": "/seize-insta/static/js/1.bf023607.chunk.js"
   },
   {
-    "revision": "a8df741f0b5918b69e7c",
-    "url": "/seize-insta/static/css/main.74867a00.chunk.css"
+    "revision": "8f049a0811368f7cfcd8",
+    "url": "/seize-insta/static/css/main.000b2d71.chunk.css"
   },
   {
-    "revision": "a964f29472b9eb0c826c",
+    "revision": "bf0236078cc4b6f7e687",
     "url": "/seize-insta/static/css/1.282a064a.chunk.css"
   },
   {
-    "revision": "c3c282a87e593c211e74aece47d3922e",
+    "revision": "01b43e1bb5998bf48aad25adafe5db3f",
     "url": "/seize-insta/index.html"
   }
 ];
